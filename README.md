@@ -5,4 +5,4 @@ Repositorio del departamento de marketing de _Unicaja Baloncesto_
 - Informes sobre campañas de abonos
 ### Web oficial del club
 La web oficial del clulb es [Web oficial](https://www.unicajabanco.es/es/particulares)
-
+<img src=https://www.unicajabaloncesto.com/Documentos/Fotos/4/7/5/3/475302_34.jpg>
